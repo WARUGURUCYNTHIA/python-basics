@@ -28,3 +28,6 @@ elif op=="/":
     
 elif op=="*":
     print(f"the product is {mult(num1,num2)}")
+    
+else :
+    print("Invalid option")    
